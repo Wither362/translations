@@ -57,7 +57,7 @@
                 "common" : "Común"
             },
             "translationNotAvailable" : "Desafortunadamente no hay traducción disponible para esta página.",
-            "translationIncomplete" : "No todo el texto de esta página será traducido",
+            "translationIncomplete" : "No todo el texto de esta página está traducido",
             "item-noun" : {
                 "singular" : "objeto",
                 "plural" : "objetos"
@@ -116,7 +116,7 @@
             "link-countdown" : "Ver la tienda &rarr;",
             "title-upcoming" : "Objetos aún por ser Lanzados",
             "line1-upcoming" : "Los siguientes objetos han sido recientemente añadidos a los archivos del juego.",
-            "line2-upcoming" : "Aunque no están disponibles todavía, deberían de estarlo en una actualización futura.",
+            "line2-upcoming" : "Aunque no estén disponibles todavía, deberían estarlo en una actualización futura.",
             "error-upcoming" : "No se han podido cargar los objetos en este momento<br />Por favor inténtalo de nuevo más tarde",
             "button-upcoming" : "Ver todos los objetos aún no disponibles &rarr;",
             "title-trending" : "Objetos Populares",
@@ -232,7 +232,7 @@
         "news" : {
             "title" : "Noticias",
             "line1" : "La sección de noticias actual de Fortnite: Battle Royale desde Epic Games.",
-            "error" : "No hemos podido recibir nuevas noticias desde Fortnite, lo intentaremos más tarde.",
+            "error" : "No hemos podido recibir nuevas noticias de Fortnite, lo intentaremos más tarde.",
             "more-ingame-button" : "Cargar más"
         },
         "randomiser" : {
@@ -260,7 +260,7 @@
             "has-reminders" : "Tienes recordatorios para este objeto.",
             "no-reminders" : "Los recordatorios no están disponible para este objeto.",
             "images" : "Imágenes",
-            "images-icon" : "Ícono",
+            "images-icon" : "Icono",
             "images-png" : "PNG",
             "images-gallery" : "Galería",
             "images-featured" : "Destacado",
